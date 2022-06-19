@@ -1,2 +1,3 @@
 # Sales and Operations Planning with Python
  A Sales and Operations planner that calculates required production quantity 
+In this project, l simulated a sales and operations planner using the zero stock level strategy in Python. The program requires the user to input an initial stock level for a product, the number of months being planned for, expected sales for each month or period and then based on the input data , calculate the required production quantity.
